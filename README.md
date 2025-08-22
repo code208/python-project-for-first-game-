@@ -1,1 +1,1 @@
-# python-project-for-first-game-
+# python-project-1
